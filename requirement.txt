@@ -3,7 +3,7 @@ pandas
 numpy
 matplotlib
 pyyaml
-scikit-learn==1.5.2
+sklearn==1.5.2
 xgboost
 lightgbm
 catboost
