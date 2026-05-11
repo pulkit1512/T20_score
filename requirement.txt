@@ -8,9 +8,3 @@ xgboost
 lightgbm
 catboost
 joblib
-xgb_model_t20_score.pkl
-lgbm_model_t20_score.pkl
-gb_model_t20_score.pkl
-lr_model_t20_score.pkl
-teams_t20_score.pkl
-cities_t20_score.pkl
