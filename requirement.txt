@@ -2,10 +2,5 @@ streamlit
 pandas
 numpy
 matplotlib
-pyyaml
-sklearn==1.5.2
-xgboost
-lightgbm
-catboost
 joblib
 pickle
